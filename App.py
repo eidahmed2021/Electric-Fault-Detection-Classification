@@ -277,4 +277,4 @@ if predict_btn:
 
 # Footer
 st.markdown("---")
-st.markdown("<p class='footer'>Electric Fault Detection System | Powered by XGBoost | © 2025</p>", unsafe_allow_html=True)
+st.markdown("<p class='footer'>Electric Fault Detection System ", unsafe_allow_html=True)
