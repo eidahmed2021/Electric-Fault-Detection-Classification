@@ -45,8 +45,8 @@ This project leverages machine learning (Random Forest) to automatically detect 
 
 ## 🤖 Model Details
 
-- **Binary Model:** XGBoost classifier for fault/no fault detection.
-- **Multiclass Model:** XGBoost classifier for fault type classification.
+- **Binary Model:** Random Forest for fault/no fault detection.
+- **Multiclass Model:** Random Forest for fault type classification.
 - **Scaler:** MinMaxScaler for feature normalization.
 - **Inputs:** Phase currents (Ia, Ib, Ic) and voltages (Va, Vb, Vc).
 - **Outputs:** Fault status and type.
